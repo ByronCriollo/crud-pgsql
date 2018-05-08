@@ -3,13 +3,13 @@ class Database extends PDO
 {
 
 	//dbname
-	private $dbname = "blog";
+	private $dbname = "bddCrud";
 	//host
-	private $host = "localhost";
+	private $host = "bddcrud.postgres.database.azure.com";
 	//user database
-	private $user = "postgres";
+	private $user = "myadmin@bddcrud";
 	//password user
-	private $pass = '2092acer';
+	private $pass = '2092Acer';
 	//port
 	private $port = 5432;
     //instance
